@@ -1,9 +1,9 @@
 {
     "character_limit": 10000000,
     "database": {
-        "title_message": "Chatwize - Wizzy 🤖",
+        "title_message": "Heikant Installatie",
         "color_code": "#FFFFFF",
-        "welcome_message": "Standaard welkomstbericht"
+        "welcome_message": "Welkom bij Heikant Installatie 🛠️. Ik ben uw AI chatbot hier om u te helpen. Waarmee kan ik u van dienst zijn?"
     },
     "scheduler": {
         "day": "7",
