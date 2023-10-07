@@ -18,7 +18,7 @@
     "web": {
         "cors_origins": [
             "https://heikant.onrender.com",
-            "https://www.heikant.onrender.com,"
+            "https://www.heikant.onrender.com",
             "https://chatwize.co",
             "https://www.chatwize.co"
         ]
