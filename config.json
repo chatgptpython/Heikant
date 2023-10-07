@@ -17,8 +17,8 @@
     },
     "web": {
         "cors_origins": [
-            "https://chatbot-1k97.onrender.com",
-            "https://www.chatbot-1k97.onrender.com",
+            "https://heikant.onrender.com",
+            "https://www.heikant.onrender.com,"
             "https://chatwize.co",
             "https://www.chatwize.co"
         ]
