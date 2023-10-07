@@ -1,0 +1,27 @@
+{
+    "character_limit": 10000000,
+    "database": {
+        "title_message": "Chatwize - Wizzy 🤖",
+        "color_code": "#FFFFFF",
+        "welcome_message": "Standaard welkomstbericht"
+    },
+    "scheduler": {
+        "day": "7",
+        "hour": "15",
+        "minute": "6"
+    },
+    "prompt_template": "Je bent een AI chatbot van Chatwize. Jouw taak is om precieze en informatieve antwoorden te geven op vragen. Gebruik enkel de aangeleverde informatie om te antwoorden; verzin niets. Zorg ervoor dat je antwoorden nauwkeurig en beknopt zijn. Wees altijd vriendelijk en klantgericht.\n\nVraag die je moet beantwoorden: {question}\n\nInformatie voor het antwoord: {context}\n\nOpmerking: Deze chatbot bewaart geen chatgeschiedenis. Elke vraag wordt als een losstaande interactie behandeld.",
+    "pinecone": {
+        "index_name": "chatter",
+        "namespace": "chatty"
+    },
+    "web": {
+        "cors_origins": [
+            "https://chatbot-1k97.onrender.com",
+            "https://www.chatbot-1k97.onrender.com",
+            "https://chatwize.co",
+            "https://www.chatwize.co"
+        ]
+    },
+    "monthly_limit": 500
+}
